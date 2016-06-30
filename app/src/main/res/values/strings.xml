@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GIF Searcher</string>
+    <string name="action_search">Search</string>
+    <string name="action_rating">Only family gifs</string>
+    <string name="trended">Trended!</string>
+    <string name="rating">Rating: </string>
+    <string name="date">Date :</string>
+</resources>
